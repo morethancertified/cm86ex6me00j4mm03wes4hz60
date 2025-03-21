@@ -1,2 +1,1 @@
 # Variable Validation Lab
-
